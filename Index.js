@@ -1,1 +1,2 @@
-var teste=10;
+var teste2=10;
+console.log(teste2);
